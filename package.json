@@ -1,0 +1,19 @@
+{
+  "name": "rpi-node-tests",
+  "version": "1.0.0",
+  "description": "tests for prefomance of using node scripting on raspberry pi platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hypertrifle/rpi-node-tests.git"
+  },
+  "author": "Rich Searle - hypertrifle.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hypertrifle/rpi-node-tests/issues"
+  },
+  "homepage": "https://github.com/hypertrifle/rpi-node-tests#readme"
+}
